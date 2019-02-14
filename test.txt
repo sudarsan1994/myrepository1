@@ -10,3 +10,5 @@ white
 yellow
 orange
 done
+maroon
+blue
