@@ -3,6 +3,8 @@ This is rainbow
 colors
 green
 red
+pink
+red
 black
 white
 yellow
