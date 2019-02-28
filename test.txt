@@ -1,0 +1,4 @@
+Hi is my first Ec2-git program
+This is git
+Git a version control tool
+github is a scm tool (source code management tool) 
